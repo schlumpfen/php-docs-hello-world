@@ -18,7 +18,11 @@ padding: 0.5em 1em;
 </style> <!-- Ende CSS-Style -->
 </head> <!-- Ende HTML-Kopf -->
 <body> <!-- Start HTML-Body -->
-<?php //Start PHP
+  <table>
+    <tr><td>a</td></tr>
+    <tr><td>b</td></tr>
+  </table>
+  <?php //Start PHP
 
 echo "Hello Azure!";  
 ?> <!-- Ende PHP-->
